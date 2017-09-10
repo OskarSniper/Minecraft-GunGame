@@ -1,0 +1,7 @@
+name: GunGame
+author: Sebastian
+version: 1.0.0
+main: me.oskarsniper.core.core
+commands:
+  gungame:
+    description: GunGame command!
